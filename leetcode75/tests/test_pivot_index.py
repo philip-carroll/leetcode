@@ -1,5 +1,5 @@
 from unittest import TestCase
-from leetcode75.pivot_index import Solution
+from leetcode75.prefix_sum.pivot_index import Solution
 
 
 class TestSolution(TestCase):

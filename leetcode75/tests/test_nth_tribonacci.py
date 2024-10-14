@@ -1,5 +1,5 @@
 from unittest import TestCase
-from leetcode75.nth_tribonacci import Solution
+from leetcode75.dp_1d.nth_tribonacci import Solution
 
 
 class TestSolution(TestCase):
